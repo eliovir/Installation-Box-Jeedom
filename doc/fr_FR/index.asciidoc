@@ -1,0 +1,10 @@
+== Installation de vos Box Jeedom
+
+[[buildMini]]
+=== Assembler la mini
+include::buildMini.asciidoc[]
+
+'''
+[[firstUseMini]]
+=== Premiers pas
+include::firstUseMini.asciidoc[]
