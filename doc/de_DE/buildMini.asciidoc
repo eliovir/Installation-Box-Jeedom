@@ -1,0 +1,70 @@
+Zunächst einmal vielen Dank für den Kauf des Jeedom Mini. Hier finden Sie ausführliche in der Dokumentation erklärt, wie man das Jeedom Mini Kit zusammen baut und die Z-Wave komplatieble Jeedom Mini Box zur Automatisierung nutzen.
+In Ihrem Kit finden Sie mehrere Bauteile: den Raspberry (PDC), das Razberry-Modul  (Z-Wave-Protokoll), class10 4 GB SD-Karte (mit Jeedom Software) und Ladegerät. Wie Sie unten sehen können, ist der offizielle Lieferant des Raspberry „Element14“  und das Ladegerät ist von den Designern des Raspberry empfohlen.
+
+image::../images/buildMini.JPG[] 
+
+Wir werden mit dem Raspberry beginnen entfernen Sie den Element14 Karton .
+
+image::../images/buildMini2.JPG[] 
+
+Dann nehmen wir den Razberry aus den kleinen blauen Karton der die elektronische Karte mit dem Z-Wave Home-Automation-Protokoll enthält
+
+image::../images/buildMini3.JPG[] 
+
+Auf diesem Foto identifizieren wir die GPIO-Pins auf dem das Razberry gesteckt wird.
+
+image::../images/buildMini4.JPG[] 
+
+Auf diesem Foto identifizieren wir die GPIO-Pins auf dem das Razberry gesteckt wird. 
+
+image::../images/buildMini5.JPG[] 
+
+Hier können Sie sehen, dass das Razberry Modul mit den Pins auf der rechten Seite verbunden ist.
+
+image::../images/buildMini6.JPG[] 
+
+Nun nehmen Sie das Gehäuse und beginnen, es durch leichten Druck auf der Seite der Oberschale (das Logo) zu öffnen. Die Kerben herauskommen und Sie können das Gehäuse in zwei Teile Zerlegen.
+
+image::../images/buildMini7.JPG[] 
+
+Hier sind die 2 Gehäuseteile zu sehen. Bitte beachten Sie die Luftlöcher, damit alles gut belüftet ist. Zur Montage des Raspberry mit Razberry wird es an dem Gehäuseteil mit den Löchern positioniert.
+
+image::../images/buildMini8.JPG[] 
+
+So wie hier:
+
+image::../images/buildMini9.JPG[] 
+
+Bitte beachten Sie, dass die USB-Ports, das kleine Metall Teil der Kontur über den Tellerrand hinaus zu haben. Nachdem die Metallteile auf der Außenseite, muß es leicht abgeschnitten werden die Karte an der Unterseite des Gehäuses. 
+
+image::../images/buildMini10.JPG[] 
+
+Nehmen Sie den oberen Teil des Gehäuses (mit dem Logo), um alles zu schließen. Gerade beginnen Positionierungskerben auf der Seite gegenüber der Razberry stecken.
+
+image::../images/buildMini11.JPG[] 
+
+Anschließend Schließen der anderen Seite der Clippingbox.
+
+image::../images/buildMini12.JPG[] 
+
+Nun ist die SD-Karte dran. Dies ist eine Micro SD-Karte, die mit einem SD-Adapter zusammen geschoben wird.
+
+image::../images/buildMini13.JPG[] 
+
+Stecken Sie diese SD-Adapter (mit Mikro-SD-Karte) in den Schlitz auf der Rückseite des Gehäuses.
+
+image::../images/buildMini14.JPG[] 
+
+Wichtig ist auf die Richtung der Karte zu achten. 
+
+image::../images/buildMini15.JPG[] 
+
+Es bleibt nur noch das anstecken des Netzgerätes mit dem Micro-USB-Anschluss neben der SD-Karte. 
+
+image::../images/buildMini16.JPG[] 
+
+Jetzt ist Ihre Jeedom Mini sofort einsatzbereit. Schließen Sie es an Ihr Heimnetzwerk über RJ45-Anschluss an und denn Netzstecken an die Steckdose. Jetzt nur noch genießen.
+
+image::../images/buildMini17.JPG[] 
+
+Beachten Sie, dass für die jenigen, die das Kit mit RFXtrx433E Modul haben, stecken Sie es einfach in einen USB-Anschluss der Jeedom Mini-Box  .

@@ -1,0 +1,10 @@
+== Installation der Jeedom Box
+
+[[buildMini]]
+=== Den Mini zusammen bauen
+include::buildMini.asciidoc[]
+
+'''
+[[firstUseMini]]
+=== Erste Schritte
+include::firstUseMini.asciidoc[]
