@@ -1,0 +1,75 @@
+Nun, da Ihr  Jeedom Mini Gerät montiert ist, werden Sie die Haustechnik mit Jeedom entdecken. Bevor Sie es verwenden können, müssen Sie Ihre Mini Jeedom-Box mit Ihrem lokalen Netzwerk verbinden (auf Router, Switch oder Internet-Box ...).
+
+Das erste was zu tun ist, die entsprechende IP-Adresse, Ihre Jeedom Mini-Box zu finden zB. 192.168.1.3 . Dazu gehen Sie in den Verwaltungsbereich Ihres Routers oder Internet und suchen Sie ein Gerät mit dem Namen "Jeedom". 
+
+image::../images/firstUseMini.png[]
+
+Von dort können Sie die IP-Adresse der Jeedom Mini- Box  erhalten.
+
+image::../images/firstUseMini2.png[]
+
+Dann nehmen Sie Ihren Lieblings-Browser und geben Sie in das URL-Feld die IP-Adresse die bereits gefunden wurde ein. (Was Ihrer Jeedom Mini-Box entspricht)
+
+image::../images/firstUseMini3.png[]
+
+Sie kommen dann auf die Jeedom Anmeldeseite.
+
+image::../images/firstUseMini4.png[]
+
+Standardmäßig ist der Benutzername und das Kennwort "admin" und "admin" (ohne die Anführungszeichen).
+
+image::../images/firstUseMini5.png[]
+
+Beachten Sie dass es unten ein kleines Feld "Speichern Sie diesen Computer" giebt. Das ermöglicht, das Sie sich nicht bei der nächsten Verbindung identifizieren müssen. (es sei denn,Sie loggen aus)
+
+image::../images/firstUseMini6.png[]
+
+Sie kommen dann auf die Jeedom Benutzeroberfläche. Sie ist leer, auf ihr können sie die Struktur ihres Hauses mit Objekten darstellen und neue Automationsmodule hinzufügen.
+
+image::../images/firstUseMini7.png[]
+
+Jeedom arbeitet mit Plugins. Es sind mehrere Plugins Vorinstalliert.
+
+image::../images/firstUseMini8.png[]
+
+Das Z-Wave-Plugin, wird verwendet um die Z-Wave-Netzwerk zu setzen und neue Z-Wave-Module hinzuzufügen.
+
+image::../images/firstUseMini9.png[]
+
+Kommunikations-Plugins. 
+
+image::../images/firstUseMini10.png[]
+
+Widget und Script-Plugin.
+
+image::../images/firstUseMini11.png[]
+
+Wetter-Plugins.
+
+image::../images/firstUseMini12.png[]
+
+Sie Finden noch viele andere Plugins im Menü „Allgemein“ Untermenü „Plugins“. Sie müssen auf dem Markt Button klicken. 
+
+Denken Sie auch daran, dass man 2 Coupons mit dem Sie 2 zuzahlende Plugins kostenlos (RFXCOM und Alarm) installieren kann. Um es zu nutzen, müssen Sie ein Konto auf dem Jeedom Markt erstellen.  Sehen Sie in der Dokumentation: Doc Markt.
+
+Unter dem Gehäuse des Mini finden Sie die Seriennummer. Vous pouvez le renseigner sur votre profil du Market, cela vous permettra entre autre de télécharger l’image de la carte SD originale de votre Mini.
+
+image::../images/firstUseMini13.png[]
+
+Bitte beachten Sie, dass der Expertenmodus standardmäßig deaktiviert ist. Jeedom ist standardmäßig auf stabiles arbeiten konfiguriert.
+
+image::../images/firstUseMini14.png[]
+
+Für Fachleute ist es möglich, auf das Jeedom Betriebssystem zuzugreifen. Dazu müssen Sie sich via SSH auf die Jeedom Mini-Box verbinden. Sie werden das Anmelde- Verbindungspasswort und Seriennummer auf dem Etikett Ihres Jeedom Mini finden. Aus Gründen der Sicherheit, bitte das Kennwort nicht  verteilen.
+
+image::../images/firstUseMini15.png[]
+
+Sie gelangen auf die Jeedom OS-Befehlszeile. Beachten Sie, dass es möglich ist, das SSH-Passwort mit dem Befehl "passwd" zu ändern.
+
+image::../images/firstUseMini16.png[]
+
+Um Jeedom weiter kennen zulernen können Sie die vollständige Dokumentation durcharbeiten: Jeedom Dokumentation  
+und es giebt auch ein Video-Tutorial: Video-Tutorials . 
+Besuchen sie das Jeedom Forum um weitere Fragen zu stellen: Jeedom Forum. 
+
+Danke und viel Spaß bei der Erkundungung der Jeedom Haus-Automation. 
